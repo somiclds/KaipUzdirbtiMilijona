@@ -10,4 +10,4 @@ Idea
 ###################
 
 The idea of this webpage is to let companies to put their logos into this website and advertise themselves this way.
-Similar webpage: http://www.milliondollarhomepage.com/
+Webpage with similar idea: http://www.milliondollarhomepage.com/
