@@ -1,0 +1,31 @@
+body {
+    background: black;
+    color: white;
+    padding-top: 50px;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+a {
+    display : inline
+}
+
+strong {
+    font-size: 15px;
+}
+
+.checkbox {
+    padding-bottom: 10px;
+}
+
+.btn-login {
+    margin-bottom: 10px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 150px;
+    }
+}
